@@ -32,19 +32,25 @@ img {
     row-gap:24px;
 }
 
+.content-header{
+    color: #545454;
+}
+
 .content-header__title{
     margin: 0px;
+    font-size: 36px;
+    font-weight: 400px;
 }
 
 .content-header__p {
     margin: 0px;
+    font-size: 18px;
 }
 
-.content-right{
+.content-right--middle{
     line-height: 22px;
-}
-.content-header{
-    
+    margin: 0px;
+    padding: 0px
 }
 
 .content__p1{
@@ -55,8 +61,15 @@ img {
     margin: 0;
 }
 
+.content-right--bottom{
+    line-height: 22px;
+    margin: 0px;
+    padding:0px;
+}
+
 .content_p2--color {
     color: #E20613;
+    text-decoration: none;
 }
 
 .content_p1--color{
