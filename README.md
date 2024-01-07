@@ -1,6 +1,6 @@
-#Pierwszy projekt w kursie WTF Co ten frontend?
+Pierwszy projekt w kursie WTF Co ten frontend?
 
-##Technologie:
+Technologie:
 
 - HTML
 - CSS
